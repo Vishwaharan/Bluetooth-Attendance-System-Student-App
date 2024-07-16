@@ -1,2 +1,20 @@
-# Bluetooth-Attendance-System-Student-App
-The Student Attendance App uses fingerprint verification to securely mark attendance. Students scan their fingerprints to confirm presence, ensuring accurate and fraud-free records. With a user-friendly interface and quick processing, the app makes attendance tracking seamless and reliable.
+# Bluetooth Attendance Management System for Students
+
+A mobile application that allows students to receive attendance alerts when their devices are detected by the teacher's app via Bluetooth. Students can confirm their attendance by verifying their identity using fingerprint recognition. Attendance is only marked when the student's device is detected and verified through their fingerprint.
+
+## Features
+
+- **Real-Time Alerts**: Receive notifications when your device is detected by the teacher's app.
+- **Fingerprint Verification**: Confirm attendance using secure fingerprint recognition.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and management.
+
+## Technologies Used
+
+- **Flutter**: For building the cross-platform mobile application.
+- **Firebase**: For backend services including real-time database, authentication, and storage.
+
+## Screenshots
+
+| Output Images                                   |
+|------------------------------------------------|
+| <img src="screenshots/img1.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img2.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img3.png" width="150" height="300" style="margin-right: 20px; display: inline-block;">
