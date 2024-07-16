@@ -15,6 +15,5 @@ A mobile application that allows students to receive attendance alerts when thei
 
 ## Screenshots
 
-| Output Images                                   |
-|------------------------------------------------|
-| <img src="screenshots/img1.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img2.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img3.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;">
+
+<img src="screenshots/img1.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img2.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img3.jpg" width="150" height="320" style="margin-right: 20px; display: inline-block;">
